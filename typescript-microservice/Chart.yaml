@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: typescript-microservice
+description: Chart to configure ArgoCD with the typescript-microservice project and its applications
